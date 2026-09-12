@@ -98,10 +98,10 @@ FACE_OVERLAY_FILES = {
         "smile.png",
 
     "SQUINT":
-        "squint.png",
+        "squint.jpg",
 
     "BROW_RAISE":
-        "brow_raise.png",
+        "brow_raise.jpg",
 
     "HEAD_LEFT":
         "head_left.png",

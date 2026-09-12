@@ -104,7 +104,7 @@ FACE_OVERLAY_FILES = {
         "brow_raise.jpg",
 
     "HEAD_LEFT":
-        "head_left.png",
+        "head_left.jpg",
 
     "HEAD_RIGHT":
         "head_right.png"
